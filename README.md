@@ -1,4 +1,4 @@
-# Retrieval Augmented System for the ATP team - Department of Human Services
+# Retrieval Augmented System for Research | ATP team | Department of Human Services
 
 ** Note: Due to the sensitive information contained in the source files, this repository has been made private. To review the implementation, please refer to this [open-source repository.](https://github.com/shayanalis/Retrieval-Augmented-Generation-for-Product-Management) **
 
