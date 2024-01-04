@@ -17,7 +17,10 @@ Open the deployed link and put in a question like:
 2. "Which features should I use when modeling for ..."
 3. "Research on maternal health outcomes in Allegheny County"
 
-**How it works:**
+### How it works
+The system uses an Agent to decide what information to search for, thinking at each step what is needed to answer the query.
+
+**Example**
 Question: What are the best practices for handling years in my model
 
 --> Invoking Agent-based Retrieval
