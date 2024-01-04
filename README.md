@@ -17,5 +17,17 @@ Open the deployed link and put in a question like:
 2. "Which features should I use when modeling for ..."
 3. "Research on maternal health outcomes in Allegheny County"
 
-Expect answers like:
-"Here is the research I found for your question... [reference: abc_health_outcomes.pdf]"
+**How it works:**
+Question: What are the best practices for handling years in my model
+
+--> Invoking Agent-based Retrieval
+> Agent: Thinking: I need to search for 'best practices in models'
+
+> Agent: Thinking: I need to search for 'handling years in models'
+
+--> Retrieval from vector store. 
+--> Agent: Aggregating: Based on the information I need to search for 'Bad Examples of Modeling'
+
+> Agent: Thinking: Using all the information to answer the user's question.
+
+"Here are the best practices... [reference: abc_health_outcomes.pdf] [reference: xyz_modelling.pdf]"
