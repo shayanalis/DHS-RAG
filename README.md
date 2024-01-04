@@ -1,6 +1,6 @@
 # Retrieval Augmented System for Research | ATP team | Department of Human Services
 
-### *Note: Due to the sensitive information contained in the source files, this repository has been made private. To review the implementation, please refer to this [open-source repository.](https://github.com/shayanalis/Retrieval-Augmented-Generation-for-Product-Management)
+### Note: Due to the sensitive information contained in the source files, this repository has been made private. To review the implementation, please refer to this [open-source repository.](https://github.com/shayanalis/Retrieval-Augmented-Generation-for-Product-Management)
 
 ## Purpose
 The tool assists Data Science, ML, and Econometrics researchers at DHS in swiftly searching curated material on topics such as:
